@@ -1,6 +1,6 @@
 # Reproducible Research: Peer Assessment 1
 Alade Yussuf Kofoworola  
-Monday, February 9, 2015  
+Monday, March 9, 2015  
 
 
 ## Loading and preprocessing the data
